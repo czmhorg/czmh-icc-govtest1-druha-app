@@ -1,6 +1,0 @@
-# UPOZORNENI governance: tento soubor NENI pod spravou
-# governance reconcile (chybi spravovana sekce), ackoli projekt 'govtest1' ma
-# v conf.d klic pr_reviewers — automaticke zadosti o review se z konfigurace
-# neaplikuji. Obnoveni spravy: smazte tento soubor, pristi denni reconcile ho
-# zalozi znovu se spravovanou sekci (vlastni pravidla si predtim zalohujte).
-docs/ @czmhorg/test-gov-admins
